@@ -1,4 +1,6 @@
-flask
+gunicorn
+Flask
+Frozen-Flask
 flask-bootstrap
 boto3
 awscli
